@@ -1,0 +1,42 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "profiles": {
+      "defaults": {},
+      "list": [
+        {
+          "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+          "name": "PowerShell Core",
+          "colorScheme": "Embark",
+          "fontFace": "FiraMono NF",
+          "fontSize": 10,
+          "cursorColor": "#A1EFD3",
+          "selectionBackground": "#fbfcfc",
+          "commandline": "pwsh.exe -nol"
+        }
+      ]
+    },
+    "schemes": [
+      {
+        "name": "Embark",
+        "background": "#1e1c31",
+        "foreground": "#EEFFFF",
+        "black": "#1e1c31",
+        "red": "#F0719B",
+        "green": "#A1EFD3",
+        "yellow": "#ffe9aa",
+        "blue": "#57C7FF",
+        "purple": "#C792EA",
+        "cyan": "#87DFEB",
+        "white": "#F8F8F2",
+        "brightBlack": "#3E3859",
+        "brightRed": "#F02E6E",
+        "brightGreen": "#2CE592",
+        "brightYellow": "#ffb378",
+        "brightBlue": "#1DA0E2",
+        "brightPurple": "#A742EA",
+        "brightCyan": "#63f2f1",
+        "brightWhite": "#a6b3cc"
+      }
+    ]
+  }
